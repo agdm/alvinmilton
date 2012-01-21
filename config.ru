@@ -1,3 +1,3 @@
-require "am"
+require "am.rb"
 
 run Sinatra::Application
